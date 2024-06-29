@@ -1,0 +1,6 @@
+Flask==2.1.2
+pandas==1.4.2
+supabase==0.2.5
+python-dotenv==0.20.0
+chardet==5.0.0
+plotly==5.8.0
